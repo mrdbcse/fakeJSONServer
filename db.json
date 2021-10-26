@@ -9,31 +9,31 @@
     },
     {
       "id": "2",
-      "Name": "Arindam",
-      "Role": "SDE",
-      "Address": "Kolkata",
-      "Company": "Chickpea"
+      "name": "Arindam",
+      "role": "SDE",
+      "address": "Kolkata",
+      "company": "Chickpea"
     },
     {
-      "Name": "Saswata",
-      "Role": "Salesforce Admin",
-      "Address": "Kolkata",
-      "Company": "Chickpea",
+      "name": "Saswata",
+      "role": "Salesforce Admin",
+      "address": "Kolkata",
+      "company": "Chickpea",
       "id": "3"
     },
     {
       "id": "4",
-      "Name": "Mahesh",
-      "Role": "SDE",
-      "Address": "Kolkata",
-      "Company": "B4B"
+      "name": "Mahesh",
+      "role": "SDE",
+      "address": "Kolkata",
+      "company": "B4B"
     },
     {
       "id": "5",
-      "Name": "Gaurav",
-      "Role": "Operation Manager",
-      "Address": "Kolkata",
-      "Company": "Hexaride Technologies"
+      "name": "Gaurav",
+      "role": "Operation Manager",
+      "address": "Kolkata",
+      "company": "Hexaride Technologies"
     },
     {
       "name": "Satya",
@@ -41,6 +41,13 @@
       "address": "Howrah, WB",
       "company": "Chickpea",
       "id": "FMdcZx_"
+    },
+    {
+      "name": "Sayantan",
+      "role": "Salesforce Developer",
+      "address": "Saltlake",
+      "company": "Chickpea",
+      "id": "54mZbDW"
     }
   ]
 }
