@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "Name": "Debjyoti",
+      "Role": "SDT",
+      "Address": "Kolkata",
+      "Company": "B4B"
+    },
+    {
+      "id": "2",
+      "Name": "Arindam",
+      "Role": "SDE",
+      "Address": "Kolkata",
+      "Company": "Chickpea"
+    },
+    {
+      "id": "3",
+      "Name": "Saswata",
+      "Role": "SE",
+      "Address": "Kolkata",
+      "Company": "Chickpea"
+    },
+    {
+      "id": "4",
+      "Name": "Mahesh",
+      "Role": "SDE",
+      "Address": "Kolkata",
+      "Company": "B4B"
+    }
+  ]
+}
