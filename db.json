@@ -2,10 +2,10 @@
   "users": [
     {
       "id": "1",
-      "Name": "Debjyoti",
-      "Role": "SDT",
-      "Address": "Kolkata",
-      "Company": "B4B"
+      "name": "Debjyoti",
+      "role": "SDT",
+      "address": "Kolkata",
+      "company": "B4B"
     },
     {
       "id": "2",
@@ -15,11 +15,11 @@
       "Company": "Chickpea"
     },
     {
-      "id": "3",
       "Name": "Saswata",
-      "Role": "SE",
+      "Role": "Salesforce Admin",
       "Address": "Kolkata",
-      "Company": "Chickpea"
+      "Company": "Chickpea",
+      "id": "3"
     },
     {
       "id": "4",
@@ -27,6 +27,20 @@
       "Role": "SDE",
       "Address": "Kolkata",
       "Company": "B4B"
+    },
+    {
+      "id": "5",
+      "Name": "Gaurav",
+      "Role": "Operation Manager",
+      "Address": "Kolkata",
+      "Company": "Hexaride Technologies"
+    },
+    {
+      "name": "Satya",
+      "role": "Salesforce Developer",
+      "address": "Howrah, WB",
+      "company": "Chickpea",
+      "id": "FMdcZx_"
     }
   ]
 }
